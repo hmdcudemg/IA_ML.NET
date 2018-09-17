@@ -1,0 +1,11 @@
+C:\Users\DM02908\Desktop\DEV\dot_net_core\IA\taxiFares\obj\Debug\netcoreapp2.1\taxiFares.csprojAssemblyReference.cache
+C:\Users\DM02908\Desktop\DEV\dot_net_core\IA\taxiFares\obj\Debug\netcoreapp2.1\taxiFares.csproj.CoreCompileInputs.cache
+C:\Users\DM02908\Desktop\DEV\dot_net_core\IA\taxiFares\obj\Debug\netcoreapp2.1\taxiFares.AssemblyInfoInputs.cache
+C:\Users\DM02908\Desktop\DEV\dot_net_core\IA\taxiFares\obj\Debug\netcoreapp2.1\taxiFares.AssemblyInfo.cs
+C:\Users\DM02908\Desktop\DEV\dot_net_core\IA\taxiFares\bin\Debug\netcoreapp2.1\taxiFares.deps.json
+C:\Users\DM02908\Desktop\DEV\dot_net_core\IA\taxiFares\bin\Debug\netcoreapp2.1\taxiFares.runtimeconfig.json
+C:\Users\DM02908\Desktop\DEV\dot_net_core\IA\taxiFares\bin\Debug\netcoreapp2.1\taxiFares.runtimeconfig.dev.json
+C:\Users\DM02908\Desktop\DEV\dot_net_core\IA\taxiFares\bin\Debug\netcoreapp2.1\taxiFares.dll
+C:\Users\DM02908\Desktop\DEV\dot_net_core\IA\taxiFares\bin\Debug\netcoreapp2.1\taxiFares.pdb
+C:\Users\DM02908\Desktop\DEV\dot_net_core\IA\taxiFares\obj\Debug\netcoreapp2.1\taxiFares.dll
+C:\Users\DM02908\Desktop\DEV\dot_net_core\IA\taxiFares\obj\Debug\netcoreapp2.1\taxiFares.pdb
